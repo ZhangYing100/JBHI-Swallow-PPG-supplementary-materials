@@ -13,14 +13,14 @@ This repository contains supplementary material for the paper published in the I
 **Online ISSN**: 2168-2208
 
 ## Copyright Notice
-© IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+© IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works. All rights reserved.
 
 ## Content Description
  This includes supplementary further details of the main paper.
 
 ## Usage
 These materials are provided to support the reproducibility of research described in the paper. When using any content:
-1. Always cite the original paper
+1. Always cite the original paper with the DOI of 10.1109/JBHI.2025.3590667
 2. Contact the corresponding author for clarification: panyun@zju.edu.cn
 
 ## License
