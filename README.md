@@ -21,9 +21,9 @@ This repository contains supplementary material for the paper published in the I
 ## Usage
 These materials are provided to support the reproducibility of research described in the paper. When using any content:
 1. Always cite the original paper
-2. Contact the corresponding author for clarification: [panyun@zju.edu.cn]
+2. Contact the corresponding author for clarification: panyun@zju.edu.cn
 
 ## License
-This supplementary material is shared under IEEE's Permissions Policy. By accessing these materials, you agree to comply with IEEE's [Terms of Use].
+This supplementary material is shared under IEEE's Permissions Policy. By accessing these materials, you agree to comply with IEEE's Terms of Use.
 
 > **Important**: This repository is not maintained as a standalone project.
