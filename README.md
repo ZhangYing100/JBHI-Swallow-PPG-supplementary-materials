@@ -3,9 +3,13 @@
 This repository contains supplementary material for the paper published in the IEEE Journal of Biomedical and Health Informatics (JBHI):
 
 **Paper Title**: Swallow-PPG: Photoplethysmography Templates for Comprehensive Temporal Analysis of Swallowing Anatomical Actions
+
 **Digital Object Identifier**: 10.1109/JBHI.2025.3590667
+
 **Authors**: Ying Zhang, Graduate Student Member, IEEE, Junjie Li, Member, IEEE, Ping Wang, Huaiyu Zhu, Member, IEEE, Bo Wang, Wei Luo, and Yun Pan, Member, IEEE  
+
 **Print ISSN**: 2168-2194
+
 **Online ISSN**: 2168-2208
 
 ## Copyright Notice
@@ -16,7 +20,7 @@ This repository contains supplementary material for the paper published in the I
 
 ## Usage
 These materials are provided to support the reproducibility of research described in the paper. When using any content:
-1. Always cite the original paper:
+1. Always cite the original paper
 2. Contact the corresponding author for clarification: [panyun@zju.edu.cn]
 
 ## License
